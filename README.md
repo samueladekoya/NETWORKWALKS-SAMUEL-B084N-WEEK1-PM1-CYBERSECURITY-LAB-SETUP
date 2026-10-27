@@ -177,6 +177,8 @@ Through this assessment, I gained practical experience in:
 * Configuring Kali Linux virtual machine network settings.
 * Inspecting IP addresses and routing information using Linux commands.
 * Verifying network connectivity.
+* Configuring clipboard and file drag/drop.
+* Configuring a shared folder.
 * Documenting technical configurations with screenshots.
 
 ---
@@ -188,6 +190,7 @@ The Week 1 lab setup assessment provided practical experience in preparing a vir
 The `NatNetwork` NAT Network was configured with the IPv4 prefix `10.0.0.0/24`, DHCP enabled, and IPv6 disabled. The Kali Linux network adapter was connected to the network, and the connectivity test was successful.
 
 This environment provides a foundation for subsequent cybersecurity exercises and practical lab activities.
+
 ![Kali Linux](Screenshot%20(471).png)
 
 
