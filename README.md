@@ -46,7 +46,7 @@ DHCP was enabled to allow connected virtual machines configured for automatic ad
 
 ### Screenshot: NAT Network Configuration
 
-![VirtualBox NAT Network Configuration](screenshots/01-cyberlab-network.png)
+![VirtualBox NAT Network Configuration](Screenshot%20(469).png)
 
 ---
 
